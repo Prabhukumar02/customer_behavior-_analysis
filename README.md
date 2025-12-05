@@ -65,7 +65,7 @@ Prepare a detailed project report summarizing findings and business recommendati
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/yourusername](git clone [https://github.com/Prabhukumar02](https://github.com/surya4448)]/customer-behavior-data-analytics.git
+git clone [https://github.com/yourusername](git clone [https://github.com/Prabhukumar02]/customer-behavior-data-analytics.git
 cd customer-behavior-data-analytics
 
 
